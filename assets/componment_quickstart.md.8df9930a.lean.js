@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,N as l}from"./chunks/framework.b5b212bd.js";const C=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"componment/quickstart.md"}'),p={name:"componment/quickstart.md"},o=l("",8),e=[o];function t(c,r,D,y,F,i){return n(),a("div",null,e)}const m=s(p,[["render",t]]);export{C as __pageData,m as default};

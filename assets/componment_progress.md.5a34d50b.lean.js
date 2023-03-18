@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,N as l}from"./chunks/framework.b5b212bd.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"componment/progress.md"}'),o={name:"componment/progress.md"},t=l("",11),p=[t];function e(r,c,D,F,y,i){return a(),n("div",null,p)}const C=s(o,[["render",e]]);export{h as __pageData,C as default};

@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as e,N as s}from"./chunks/framework.b5b212bd.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"componment/calendar.md"}'),l={name:"componment/calendar.md"},n=s("",13),d=[n];function o(r,p,c,i,h,y){return a(),e("div",null,d)}const f=t(l,[["render",o]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as e,N as s}from"./chunks/framework.b5b212bd.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"componment/chooseArea.md"}'),o={name:"componment/chooseArea.md"},n=s("",13),l=[n];function r(c,p,i,d,h,y){return t(),e("div",null,l)}const b=a(o,[["render",r]]);export{f as __pageData,b as default};

@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,N as l}from"./chunks/framework.b5b212bd.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"componment/notification.md"}'),t={name:"componment/notification.md"},p=l("",22),o=[p];function e(c,r,D,y,F,i){return a(),n("div",null,o)}const d=s(t,[["render",e]]);export{A as __pageData,d as default};

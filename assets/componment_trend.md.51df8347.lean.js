@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,N as l}from"./chunks/framework.b5b212bd.js";const C=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"componment/trend.md"}'),o={name:"componment/trend.md"},p=l("",13),t=[p];function e(r,D,c,F,y,d){return n(),a("div",null,t)}const A=s(o,[["render",e]]);export{C as __pageData,A as default};

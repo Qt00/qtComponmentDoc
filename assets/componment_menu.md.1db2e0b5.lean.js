@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,N as l}from"./chunks/framework.b5b212bd.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"componment/menu.md"}'),p={name:"componment/menu.md"},o=l("",11),t=[o];function e(c,D,r,y,F,C){return n(),a("div",null,t)}const d=s(p,[["render",e]]);export{i as __pageData,d as default};

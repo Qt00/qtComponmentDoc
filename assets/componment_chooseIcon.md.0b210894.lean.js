@@ -1,0 +1,1 @@
+import{f as s,o as a,c as n,N as o}from"./chunks/framework.b5b212bd.js";const l=o("",8),p=[l],i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"componment/chooseIcon.md"}'),e={name:"componment/chooseIcon.md"},y=Object.assign(e,{setup(t){return s(!1),(c,r)=>(a(),n("div",null,p))}});export{i as __pageData,y as default};
